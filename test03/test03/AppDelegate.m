@@ -5,15 +5,8 @@
 //  Created by 阿兹尔 on 5/16/20.
 //  Copyright © 2020 王博. All rights reserved.
 //  第一次提交
-//  第二次提交
-//  第三次提交
-//  第5次提交
-//  第7次提交
-//  master 1
-//  master 2
-//test1 1
-//test1 2
-//test1 3
+
+
 
 #import "AppDelegate.h"
 
