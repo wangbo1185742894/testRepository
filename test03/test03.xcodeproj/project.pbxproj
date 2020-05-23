@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D50098824790B4600E79F69 /* PersonCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D50098724790B4600E79F69 /* PersonCollectionViewCell.m */; };
 		2D83E81C24700C0E00227743 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D83E81B24700C0E00227743 /* AppDelegate.m */; };
 		2D83E81F24700C0E00227743 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D83E81E24700C0E00227743 /* SceneDelegate.m */; };
 		2D83E82224700C0E00227743 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D83E82124700C0E00227743 /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2D50098624790B4600E79F69 /* PersonCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PersonCollectionViewCell.h; sourceTree = "<group>"; };
+		2D50098724790B4600E79F69 /* PersonCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PersonCollectionViewCell.m; sourceTree = "<group>"; };
 		2D83E81724700C0E00227743 /* test03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test03.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D83E81A24700C0E00227743 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2D83E81B24700C0E00227743 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -115,6 +118,8 @@
 				2D83E82824700C1000227743 /* LaunchScreen.storyboard */,
 				2D83E82B24700C1000227743 /* Info.plist */,
 				2D83E82C24700C1000227743 /* main.m */,
+				2D50098624790B4600E79F69 /* PersonCollectionViewCell.h */,
+				2D50098724790B4600E79F69 /* PersonCollectionViewCell.m */,
 			);
 			path = test03;
 			sourceTree = "<group>";
@@ -269,6 +274,7 @@
 			files = (
 				2D83E82224700C0E00227743 /* ViewController.m in Sources */,
 				2D83E81C24700C0E00227743 /* AppDelegate.m in Sources */,
+				2D50098824790B4600E79F69 /* PersonCollectionViewCell.m in Sources */,
 				2D83E82D24700C1000227743 /* main.m in Sources */,
 				2D83E81F24700C0E00227743 /* SceneDelegate.m in Sources */,
 			);
