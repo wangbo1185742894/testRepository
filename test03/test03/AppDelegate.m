@@ -5,8 +5,12 @@
 //  Created by 阿兹尔 on 5/16/20.
 //  Copyright © 2020 王博. All rights reserved.
 //  第一次提交
+<<<<<<< HEAD
 // test3_1
 // test3_2
+=======
+
+>>>>>>> parent of fb29bb4... test3_1
 
 
 #import "AppDelegate.h"
